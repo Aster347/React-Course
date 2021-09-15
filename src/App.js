@@ -1,10 +1,10 @@
-import Expenses from "./components/Expenses/Expenses";
+import Expenses from "./components/Expenses/Expenses"
 
 function App() {
   const expenses = [
     {
       id: "e1",
-      title: "Toilet Paper",
+      title: "Toilet paper",
       amount: 94.12,
       date: new Date(2020, 7, 14),
     },
